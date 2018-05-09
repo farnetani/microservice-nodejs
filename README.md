@@ -106,4 +106,5 @@ PORT=3000
 ### tap-spec :
 Deixa a saída mais bonita dos testes no terminal.
 
-## FONTE: (http://www.luiztools.com.br/curso-nodejs/)[Curso Luiz Tools]
+## FONTE:
+(http://www.luiztools.com.br/curso-nodejs/)[Curso Luiz Tools]
