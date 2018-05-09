@@ -103,3 +103,4 @@ DATABASE_NAME=movie-service
 PORT=3000
 ```
 
+# FONTE: Curso Luiz Tools (http://www.luiztools.com.br/curso-nodejs/)
