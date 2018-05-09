@@ -78,8 +78,6 @@ db.dropDatabase()
 ## INICIALIZANDO o projeto
 /cinema-microservice/movies-service/src
 
-npm init -y
-
 ## Modelo
 - identificador único
 - título
@@ -96,6 +94,12 @@ npm init -y
 
 ### No mongodb convertemos relacionamentos tudo em UM
 
+### Exemplo de um .env preenchido
 
-
+```
+# CONFIG BANCO DE DADOS
+MONGO_CONNECTION=mongodb://localhost:27017
+DATABASE_NAME=movie-service
+PORT=3000
+```
 
