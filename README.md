@@ -118,3 +118,12 @@ Deixa a saída mais bonita dos testes no terminal.
 
 http://www.luiztools.com.br/curso-nodejs/
 
+## Morgan
+Gera os logs de tudo que estiver acontencendo no terminal
+
+## Helmet
+- Protege de 11 ataques
+
+## Testar
+http://localhost:3000/movies
+
