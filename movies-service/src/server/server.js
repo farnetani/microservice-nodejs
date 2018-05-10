@@ -3,6 +3,7 @@ const morgan = require('morgan')
 const helmet = require('helmet')
 var server = null
 
+// Este start é um modelo bacana para deixar o projeto menos acoplado
 function start (api, repository, callback) {
   const app = express()
   app.use(morgan('dev'))
