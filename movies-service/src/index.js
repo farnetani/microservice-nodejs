@@ -1,5 +1,5 @@
 require('dotenv-safe').load()
-const movies = require('./api/movies')
+// const movies = require('./api/movies')
 const server = require('./server/server')
 const repository = require('./repository/repository')
 
