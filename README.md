@@ -106,6 +106,15 @@ PORT=3000
 ### tap-spec :
 Deixa a saída mais bonita dos testes no terminal.
 
+## 2a. parte
+
+## Repositório (DAO)
+
+- Criar o arquivo repository.js e o repository.test.js
+
+
+
 ## FONTE: (Curso Luiz Tools)
 
 http://www.luiztools.com.br/curso-nodejs/
+
